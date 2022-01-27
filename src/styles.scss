@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+body, html {
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    text-align: initial;
+}
+
+.carousel-control-prev-icon{
+    background-image: url('https://apufpel.com.br/assets/img/seta_prim.png') !important;
+ }
+ .carousel-control-next-icon{
+   background-image: url('https://apufpel.com.br/assets/img/seta_ult.png') !important;
+ }

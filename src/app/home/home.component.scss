@@ -1,0 +1,41 @@
+.service-text {
+    text-align: initial;
+    padding-right: 10px;
+}
+
+.service-text h3 {
+    font-family: cairo !important;
+    font-weight: bold !important;
+}
+
+.img-circle {
+    border-radius: 25px;
+}
+
+.footer-titles {
+    font-family: cairo !important; 
+    font-weight: bold !important;
+}
+
+.ht-hero-content-one {
+    text-align: left;
+    direction: ltr;
+}
+
+.div-desc {
+    max-width: 370px;
+    text-align: right;
+    padding: 10px;
+}
+
+@media only screen and (max-width: 991px)
+{
+    .ht-hero-content-one {
+        text-align: center;
+    }
+    .div-desc {
+        text-align: center;
+        padding: 10px;
+        margin: auto;
+    }
+}
